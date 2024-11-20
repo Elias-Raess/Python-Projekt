@@ -1,3 +1,6 @@
 # Python-Projekt
-import pygame
-import random
+Wer? 
+Was?
+Wie?
+Warum?
+Materialien?
