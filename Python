@@ -2,4 +2,4 @@ import pygame
 import random
 import time
 
-Print("Hello World")
+orint("Hello World")
